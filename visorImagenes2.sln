@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "visorImagenes2", "visorImagenes2\visorImagenes2.csproj", "{877C58BE-59DC-4EE4-ACBB-95FC21E52281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877C58BE-59DC-4EE4-ACBB-95FC21E52281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877C58BE-59DC-4EE4-ACBB-95FC21E52281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877C58BE-59DC-4EE4-ACBB-95FC21E52281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877C58BE-59DC-4EE4-ACBB-95FC21E52281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61E9050-999E-4FAC-9321-102469060267}
+	EndGlobalSection
+EndGlobal
